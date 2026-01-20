@@ -1,6 +1,6 @@
-# TP – Pipeline OLTP → ETL Pentaho PDI → Data Warehouse → Reporting Power BI
+# Projet_bi_ecommerce_etl_powerbi – Pipeline OLTP → ETL Pentaho PDI → Data Warehouse → Reporting Power BI
 
-## Objectif du TP
+## Objectif du projet
 
 Construire un pipeline complet de Business Intelligence permettant de :
 - Extraire les données d’une base OLTP (MySQL)
@@ -21,7 +21,6 @@ Construire un pipeline complet de Business Intelligence permettant de :
 - `/data_oltp/` : Exemples de jeux de données brutes OLTP (CSV)
 - `/ktr/` : Transformations ETL Pentaho (.ktr)
 - `/kjb/` : Jobs ETL (.kjb)
-- `/schema/` : Diagrammes et schémas d’architecture, captures d’écran (images)
 - `/sql/` : Scripts SQL (création du Data Warehouse, requêtes OLAP)
 - `/powerbi/` : Fichier Power BI et captures des dashboards
 - `/rapport.pdf` : Rapport détaillant toutes les étapes, résultats et difficultés
